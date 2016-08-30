@@ -31,6 +31,7 @@ RDEPEND="dev-python/requests[${PYTHON_USEDEP}]
 		 >=dev-python/lockfile-0.9.1[${PYTHON_USEDEP}]
 		 dev-python/click[${PYTHON_USEDEP}]
 		 dev-python/pyxdg[${PYTHON_USEDEP}]
+		 dev-python/Twiggy[${PYTHON_USEDEP}]
 		 test? ( dev-python/nose[${PYTHON_USEDEP}]
 				 dev-python/mock[${PYTHON_USEDEP}]
 				 dev-python/responses[${PYTHON_USEDEP}] )"
